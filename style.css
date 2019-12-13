@@ -1,0 +1,9 @@
+/* style.css | Ivanov VN: testWeb */
+
+@import "header.css";
+@import "footer.css";
+
+body {
+  padding: 0;
+  margin: 0;
+}

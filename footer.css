@@ -1,0 +1,32 @@
+/* footer.css | Ivanov VN: testWeb */
+
+footer {
+  background: gray;
+  display: flex;
+  height: 30px;
+  justify-content: center;
+  padding: 0 auto;
+  position: absolute;
+  width: 100%;
+
+  bottom: 0;
+}
+
+.footerCopyright {
+  color: white;
+  font-family: sans-serif;
+  margin: auto 0;
+}
+
+.footerCopyright a {
+  color: white;
+  font-family: sans-serif;
+  margin: auto 0;
+  text-decoration: none;
+  transition: .3s;
+}
+
+
+.footerCopyright a:hover {
+  color: #c1c1c1;
+}
