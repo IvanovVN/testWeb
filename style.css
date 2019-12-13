@@ -1,7 +1,7 @@
 /* style.css | Ivanov VN: testWeb */
 
-@import "header.css";
-@import "footer.css";
+@import "indexStyles/header.css";
+@import "indexStyles/footer.css";
 
 body {
   padding: 0;
