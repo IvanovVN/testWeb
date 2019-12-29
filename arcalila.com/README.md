@@ -2,12 +2,12 @@ Official site of Arcalila company.
 
 ## Links
 
-*about.arcalila.com*: [About • Arcalila](arcalila.com/about);
+*about.arcalila.com*: [About • Arcalila](about);
 
-*careers.arcalila.com*: [Careers • Arcalila](arcalila.com/careers);
+*careers.arcalila.com*: [Careers • Arcalila](careers);
 
-*conceptos.arcalila.com*: [ConceptOS • Arcalila](arcalila.com/conceptos);
+*conceptos.arcalila.com*: [ConceptOS • Arcalila](conceptos);
 
-*support.arcalila.com*: [Support • Arcalila](arcalila.com/support);
+*support.arcalila.com*: [Support • Arcalila](support);
 
-*store.arcalila.com*: [Arcalila Store](arcalila.com/store);
+*store.arcalila.com*: [Arcalila Store](store);
